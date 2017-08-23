@@ -10,7 +10,7 @@ I add the training part and use it for detecting text in Chinese ID
 ***
 ### Usage ###
 
-#### Training: ####<br>
+#### Training:<br>
 **X:\Users\Ray**>python train\_demo.py<br>
 
 ***prompt***:you need create a list first and two folders(data and label),the format is similar to pascal_voc<br>
@@ -22,7 +22,7 @@ just like<br>
 
 
 
-#### Testing: ####<br>
+#### Testing:<br>
 **X:\Users\Ray**>python test\_demo.py<br>
 
 
