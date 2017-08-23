@@ -1,2 +1,37 @@
-# Text-detector-for-Chinese-ID
-a detector is used for detecting text in Chinese ID
+## Text detector for Chinese ID ##
+This model is forked from [ppt_detecteor](https://gitlab.com/rex-yue-wu/ISI-PPT-Text-Detector)<br>
+I add the training part and use it for detecting text in Chinese ID
+***
+### Environment ###
+- python 2.7
+- keras=1.2.2
+- theano=0.9.0
+- some python libraries which can be included in Anaconda 
+***
+### Usage ###
+
+####Training:<br>
+**X:\Users\Ray**>python train\_demo.py<br>
+
+***prompt***:you need create a list first and two folders(data and label),the format is similar to pascal_voc<br>
+just like<br>
+ data/1.jpg label/1.xml<br>
+\*\*\*<br>
+\*\*\*<br>
+
+
+
+
+####Testing:<br>
+**X:\Users\Ray**>python test\_demo.py<br>
+***
+
+###Example###
+![](https://github.com/ray0809/Text-detector-for-Chinese-ID/blob/master/test_img/11.jpg)
+![pic1](https://github.com/ray0809/Text-detector-for-Chinese-ID/blob/master/examples/Figure_1.png)
+![pic1](https://github.com/ray0809/Text-detector-for-Chinese-ID/blob/master/examples/Figure_2.png)<br>
+
+![](https://github.com/ray0809/Text-detector-for-Chinese-ID/blob/master/test_img/2.jpg)
+![pic1](https://github.com/ray0809/Text-detector-for-Chinese-ID/blob/master/examples/Figure_3.png)
+![pic1](https://github.com/ray0809/Text-detector-for-Chinese-ID/blob/master/examples/Figure_4.png)
+
