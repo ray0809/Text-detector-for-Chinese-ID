@@ -28,6 +28,14 @@ just like<br>
 
 ### Example ###
 
+<div align="center">
+<img src="https://github.com/ray0809/Text-detector-for-Chinese-ID/blob/master/examples/Figure_1.png" height="330" width="190" >
+
+<img src="https://github.com/ray0809/Text-detector-for-Chinese-ID/blob/master/examples/Figure_2.png" height="330" width="190" >
+
+ </div>
+
+
 ![2](https://github.com/ray0809/Text-detector-for-Chinese-ID/blob/master/examples/Figure_1.png)
 ![3](https://github.com/ray0809/Text-detector-for-Chinese-ID/blob/master/examples/Figure_2.png)
 
