@@ -6,7 +6,6 @@ Created on Sun Aug 20 09:35:27 2017
 """
 
 from src.models_th import create_multi_res_model
-from src.utils import prepare_input
 from src.ppt_text_detector import from_res_map_to_bbox
 import scipy.misc as im
 import numpy as np
