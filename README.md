@@ -35,10 +35,12 @@ just like<br>
 
  </div>
 
+<div align="center">
+<img src="https://github.com/ray0809/Text-detector-for-Chinese-ID/blob/master/examples/Figure_3.png" height="330" width="400" >
 
-![2](https://github.com/ray0809/Text-detector-for-Chinese-ID/blob/master/examples/Figure_1.png)
-![3](https://github.com/ray0809/Text-detector-for-Chinese-ID/blob/master/examples/Figure_2.png)
+<img src="https://github.com/ray0809/Text-detector-for-Chinese-ID/blob/master/examples/Figure_4.png" height="330" width="400" >
 
-![5](https://github.com/ray0809/Text-detector-for-Chinese-ID/blob/master/examples/Figure_3.png)
-![6](https://github.com/ray0809/Text-detector-for-Chinese-ID/blob/master/examples/Figure_4.png)
+ </div>
+
+
 
