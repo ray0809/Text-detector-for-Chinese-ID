@@ -35,12 +35,5 @@ just like<br>
 
  </div>
 
-<div align="center">
-<img src="https://github.com/ray0809/Text-detector-for-Chinese-ID/blob/master/examples/Figure_3.png" height="330" width="400" >
-
-<img src="https://github.com/ray0809/Text-detector-for-Chinese-ID/blob/master/examples/Figure_4.png" height="330" width="400" >
-
- </div>
-
 
 
