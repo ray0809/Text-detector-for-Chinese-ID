@@ -28,10 +28,13 @@ just like<br>
 
 ### Example ###
 <center class="half">
-    <img src="https://github.com/ray0809/Text-detector-for-Chinese-ID/blob/master/test_img/11.jpg" width="300"/>
-    <img src="https://github.com/ray0809/Text-detector-for-Chinese-ID/blob/master/examples/Figure_1.png" width="300"/>
-    <img src="https://github.com/ray0809/Text-detector-for-Chinese-ID/blob/master/examples/Figure_2.png" width="300"/>
+    <img src="https://github.com/ray0809/Text-detector-for-Chinese-ID/blob/master/test_img/11.jpg" width="120" height="100"/>
+    <img src="https://github.com/ray0809/Text-detector-for-Chinese-ID/blob/master/examples/Figure_1.png" width="120" height="100"/>
+    <img src="https://github.com/ray0809/Text-detector-for-Chinese-ID/blob/master/examples/Figure_2.png" width="120" height="100"/>
 </center>
+
+
+
 ![1](https://github.com/ray0809/Text-detector-for-Chinese-ID/blob/master/test_img/11.jpg)
 ![2](https://github.com/ray0809/Text-detector-for-Chinese-ID/blob/master/examples/Figure_1.png)
 ![3](https://github.com/ray0809/Text-detector-for-Chinese-ID/blob/master/examples/Figure_2.png)
