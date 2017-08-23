@@ -29,9 +29,9 @@ just like<br>
 ### Example ###
 
 <div align="center">
-<img src="https://github.com/ray0809/Text-detector-for-Chinese-ID/blob/master/examples/Figure_1.png" height="330" width="500" >
+<img src="https://github.com/ray0809/Text-detector-for-Chinese-ID/blob/master/examples/Figure_1.png" height="330" width="450" >
 
-<img src="https://github.com/ray0809/Text-detector-for-Chinese-ID/blob/master/examples/Figure_2.png" height="330" width="500" >
+<img src="https://github.com/ray0809/Text-detector-for-Chinese-ID/blob/master/examples/Figure_2.png" height="330" width="450" >
 
  </div>
 
